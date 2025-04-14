@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Irina!
 
-<!--
-**Malivce/Malivce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a QA Engineer with 7+ years of experience in manual and automated testing.  
+I specialize in API testing, UI automation, and ensuring product quality with strong attention to detail.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Technologies
+
+**Languages:** Java, SQL  
+**Automation:** Selenium, TestNG, Maven  
+**API Testing:** Postman, Newman, Swagger  
+**Tools:** Jira, Confluence, Git, Jenkins  
+**Methodologies:** Agile, Scrum, Regression, UAT
+
+---
+
+### Featured Project
+
+- [Healthcare API Testing](https://github.com/Malivce/healthcare-api-testing)  
+  A simulation project to test protected healthcare API endpoints using Postman & Newman.
+
+---
+
+### Let's connect
+
+- [LinkedIn](linkedin.com/in/irina-m-31766893)
+- GitHub: [Malivce](https://github.com/Malivce)
