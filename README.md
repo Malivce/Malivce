@@ -1,7 +1,7 @@
 # Hi, I'm Irina!
+QA Engineer specializing in software testing, API testing, UI automation, and quality assurance.
 
-I'm a QA Engineer with 7+ years of experience in manual and automated testing.  
-I specialize in API testing, UI automation, and ensuring product quality with strong attention to detail.
+I enjoy building reliable test solutions, improving software quality, and continuously learning new technologies.
 
 ---
 
